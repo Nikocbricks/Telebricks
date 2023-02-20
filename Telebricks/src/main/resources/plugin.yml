@@ -1,0 +1,4 @@
+name: Telebricks
+version: '${project.version}'
+main: de.telebricks.telebricks.Telebricks
+api-version: 1.19
